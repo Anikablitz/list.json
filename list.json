@@ -1,0 +1,12 @@
+{"var list" : [
+{"title":"Bad Guy", "artist":["Billie Eilish"], "year":2019, "genre":["Pop"]},
+{"title":"Ivy", "artist":["Frank Ocean"], "year":2016, "genre":["R&B", "Soul"]},
+{"title":"00000 Million", "artist":["Bon Iver"], "year":2016, "genre":["Experimental"]},
+{"title":"Japanese Denim", "artist":["Daniel Caeser"], "year":2016, "genre":["R&B", "Soul"]},
+{"title":"idontwannabeyouanymore", "artist":["Billie Eilish"], "year":2017, "genre":["Pop", "Experimental"]},
+{"title":"Prune, You Talk Funny", "artist":["Gus Dapperton"], "year":2017, "genre":["Experimental"]},
+{"title":"Sweet Life", "artist":["Frank Ocean"], "year":2012, "genre":["R&B", "Soul"]},
+{"title":"Nowhere2go", "artist":["Earl Sweatshirt"], "year":2018, "genre":["Rap"]},
+{"title":"Pt.2", "artist":["Kanye West"], "year":2016, "genre":["Rap"]},
+{"title":"BLOOD.", "artist":["Kendrick Lamar"], "year":2017, "genre":["Rap"]}
+]}
