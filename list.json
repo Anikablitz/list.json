@@ -1,4 +1,4 @@
-{"var list" : [
+{"list" : [
 {"title":"Bad Guy", "artist":["Billie Eilish"], "year":2019, "genre":["Pop"]},
 {"title":"Ivy", "artist":["Frank Ocean"], "year":2016, "genre":["R&B", "Soul"]},
 {"title":"00000 Million", "artist":["Bon Iver"], "year":2016, "genre":["Experimental"]},
